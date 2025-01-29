@@ -25,7 +25,7 @@ The dataset includes:
 ## Visualization
 
 ### 📌 **Dashboard Preview**
-![College Dashboard](images/college_dashboard.png)
+![Global College Dashboard](https://github.com/kouatcheu1/Global-College-Dashboard/blob/main/Global%20College%20Dashboard.png)
 
 This Power BI dashboard includes the following key insights:
 
