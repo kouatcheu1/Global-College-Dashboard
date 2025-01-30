@@ -49,5 +49,4 @@ This Power BI dashboard includes the following key insights:
 - Examines whether sports involvement affects academic results.
 - Helps in balancing academics and extracurricular activities.
 
-🚀 **You can interact with the Power BI dashboard here:** [Link to Power BI Report]
-
+🚀 **You can interact with the Power BI dashboard here:** ![Global College Dashboard](https://github.com/kouatcheu1/Global-College-Dashboard/blob/main/College%20Dashboard.pbix)
